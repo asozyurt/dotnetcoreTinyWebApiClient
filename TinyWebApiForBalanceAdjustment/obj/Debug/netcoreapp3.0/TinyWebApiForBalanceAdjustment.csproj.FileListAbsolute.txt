@@ -1,0 +1,17 @@
+C:\Users\aozyu00\Documents\Visual Studio 2019\Projects\SketchBook\TinyWebApiForBalanceAdjustment\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\aozyu00\Documents\Visual Studio 2019\Projects\SketchBook\TinyWebApiForBalanceAdjustment\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\aozyu00\Documents\Visual Studio 2019\Projects\SketchBook\TinyWebApiForBalanceAdjustment\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\aozyu00\Documents\Visual Studio 2019\Projects\SketchBook\TinyWebApiForBalanceAdjustment\bin\Debug\netcoreapp3.0\TinyWebApiForBalanceAdjustment.exe
+C:\Users\aozyu00\Documents\Visual Studio 2019\Projects\SketchBook\TinyWebApiForBalanceAdjustment\bin\Debug\netcoreapp3.0\TinyWebApiForBalanceAdjustment.deps.json
+C:\Users\aozyu00\Documents\Visual Studio 2019\Projects\SketchBook\TinyWebApiForBalanceAdjustment\bin\Debug\netcoreapp3.0\TinyWebApiForBalanceAdjustment.runtimeconfig.json
+C:\Users\aozyu00\Documents\Visual Studio 2019\Projects\SketchBook\TinyWebApiForBalanceAdjustment\bin\Debug\netcoreapp3.0\TinyWebApiForBalanceAdjustment.runtimeconfig.dev.json
+C:\Users\aozyu00\Documents\Visual Studio 2019\Projects\SketchBook\TinyWebApiForBalanceAdjustment\bin\Debug\netcoreapp3.0\TinyWebApiForBalanceAdjustment.dll
+C:\Users\aozyu00\Documents\Visual Studio 2019\Projects\SketchBook\TinyWebApiForBalanceAdjustment\bin\Debug\netcoreapp3.0\TinyWebApiForBalanceAdjustment.pdb
+C:\Users\aozyu00\Documents\Visual Studio 2019\Projects\SketchBook\TinyWebApiForBalanceAdjustment\obj\Debug\netcoreapp3.0\staticwebassets\TinyWebApiForBalanceAdjustment.StaticWebAssets.Manifest.cache
+C:\Users\aozyu00\Documents\Visual Studio 2019\Projects\SketchBook\TinyWebApiForBalanceAdjustment\obj\Debug\netcoreapp3.0\staticwebassets\TinyWebApiForBalanceAdjustment.StaticWebAssets.xml
+C:\Users\aozyu00\Documents\Visual Studio 2019\Projects\SketchBook\TinyWebApiForBalanceAdjustment\obj\Debug\netcoreapp3.0\TinyWebApiForBalanceAdjustment.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aozyu00\Documents\Visual Studio 2019\Projects\SketchBook\TinyWebApiForBalanceAdjustment\obj\Debug\netcoreapp3.0\TinyWebApiForBalanceAdjustment.AssemblyInfoInputs.cache
+C:\Users\aozyu00\Documents\Visual Studio 2019\Projects\SketchBook\TinyWebApiForBalanceAdjustment\obj\Debug\netcoreapp3.0\TinyWebApiForBalanceAdjustment.AssemblyInfo.cs
+C:\Users\aozyu00\Documents\Visual Studio 2019\Projects\SketchBook\TinyWebApiForBalanceAdjustment\obj\Debug\netcoreapp3.0\TinyWebApiForBalanceAdjustment.RazorTargetAssemblyInfo.cache
+C:\Users\aozyu00\Documents\Visual Studio 2019\Projects\SketchBook\TinyWebApiForBalanceAdjustment\obj\Debug\netcoreapp3.0\TinyWebApiForBalanceAdjustment.dll
+C:\Users\aozyu00\Documents\Visual Studio 2019\Projects\SketchBook\TinyWebApiForBalanceAdjustment\obj\Debug\netcoreapp3.0\TinyWebApiForBalanceAdjustment.pdb
