@@ -1,6 +1,6 @@
 using System;
 
-namespace TinyWebApiForBalanceAdjustment
+namespace Z2H_Demo_WebApiForBalanceAdjustment
 {
     public class CustomerBalance
     {

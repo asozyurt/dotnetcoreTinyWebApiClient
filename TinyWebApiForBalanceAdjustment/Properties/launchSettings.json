@@ -20,7 +20,7 @@
     "TinyWebApiForBalanceAdjustment": {
       "commandName": "Project",
       "launchBrowser": true,
-      "launchUrl": "weatherforecast",
+      "launchUrl": "balance",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       },
